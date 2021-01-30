@@ -27,6 +27,6 @@ function checkLetter(event){
   if (currentLetter === 97 || currentLetter === 101 || currentLetter === 105 || currentLetter === 111 || currentLetter === 117) {
     inputRandom.style.color = '#a8323e';
   } else {
-    inputRandom.style.color = '#32a836';
+    inputRandom.style.color = '#32a835';
   }
 };
