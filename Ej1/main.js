@@ -11,10 +11,10 @@ const areaTotal = areaLateral + 2*areaBase;
 console.log('areaTotal', areaTotal + ' cm2');
 
 
-// Generalización
-const base = 12;
-const altura = 3;
-const ancho = 12;
+// Generalización, uso de variables.
+const base = 23;
+const altura = 13;
+const ancho = 16;
 
 const volumen2 = base * altura * ancho;
 console.log('volumen2', volumen2);
